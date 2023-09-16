@@ -1,0 +1,1 @@
+<img src="{{ asset(auth()->user()->avatarg) }}" alt="{{ auth()->user()->name }}" class="avatar" onerror="this.onerror=null;this.src='https://eu.ui-avatars.com/api/?background=2F3043&amp;color=01D676&amp;length=1&amp;name=Alamin'">
